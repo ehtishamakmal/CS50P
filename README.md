@@ -1,2 +1,2 @@
 # CS50p-python-journey
-This is the Beginner Course for Python students.
+Introduction to Programming with Python,problem sets — a veterinarian learning to code from scratch.
